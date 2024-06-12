@@ -1,1 +1,4 @@
 alpine:3.19.1
+deluan/navidrome:latest
+xhongc/music_tag_web:latest
+shenxianmq/auto_symlink:latest
