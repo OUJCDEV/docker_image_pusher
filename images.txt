@@ -5,3 +5,4 @@ xhongc/music_tag_web:latest
 jellyfin/jellyfin:latest
 xhofe/alist:main
 xhofe/alist:latest
+aetherlib/alist-hub:latest
