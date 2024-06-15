@@ -8,3 +8,5 @@ xhofe/alist:latest
 aetherlib/alist-hub:latest
 emby/embyserver:latest
 cloudnas/clouddrive2
+nginx:alpine
+essense/aliyundrive-webdav
