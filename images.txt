@@ -7,6 +7,7 @@ xhofe/alist:main
 xhofe/alist:latest
 aetherlib/alist-hub:latest
 emby/embyserver:latest
-cloudnas/clouddrive2
+cloudnas/clouddrive2:latest
 nginx:alpine
 lovechen/embyserver:latest
+amilys/embyserver:latest
