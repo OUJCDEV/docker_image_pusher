@@ -13,3 +13,5 @@ lovechen/embyserver:latest
 amilys/embyserver:latest
 nyanmisaka/jellyfin:latest
 zishuo/embyserver:latest
+amtoaer/bili-sync-rs:latest
+thsrite/medialinker:latest
