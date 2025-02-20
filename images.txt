@@ -1,17 +1,3 @@
-alpine:3.19.1
-shenxianmq/auto_symlink:latest
-deluan/navidrome:latest
-xhongc/music_tag_web:latest
-jellyfin/jellyfin:latest
-xhofe/alist:main
-xhofe/alist:latest
-aetherlib/alist-hub:latest
-emby/embyserver:latest
-cloudnas/clouddrive2:latest
-nginx:alpine
-lovechen/embyserver:latest
-amilys/embyserver:latest
 nyanmisaka/jellyfin:latest
-zishuo/embyserver:latest
 amtoaer/bili-sync-rs:latest
 thsrite/medialinker:latest
