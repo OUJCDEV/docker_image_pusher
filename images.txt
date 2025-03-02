@@ -1,3 +1,2 @@
-nyanmisaka/jellyfin:latest
-amtoaer/bili-sync-rs:latest
-thsrite/medialinker:latest
+amilys/embyserver:beta
+
